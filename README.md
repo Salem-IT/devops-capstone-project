@@ -7,3 +7,4 @@ This repository demonstrates GitHub workflow and a simple shell script for calcu
 2. Run: ./simple-interest.sh
 3. Enter Principal, Rate, and Time
 4. The script will calculate simple interest
+This is a test edit for the branch.
